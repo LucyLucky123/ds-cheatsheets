@@ -20,6 +20,9 @@ List of Data Science Cheatsheets to rule the world.
     - [Intermediate Python](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Dataquest/Intermediate-Python-Cheat-Sheet.pdf)
     - [Python REGEX](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Dataquest/python-regular-expressions-cheat-sheet.pdf)
     - [Python 3 Memento](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Others/mementopython3-english.pdf)
+    - [PySpark - SQL Basics](https://github.com/LucyLucky123/ds-cheatsheets/blob/master/Python/Python_PySpark%20-%20SQL%20Basics.pdf)
+    - [SciPy - Linear Algebra](https://github.com/LucyLucky123/ds-cheatsheets/blob/master/Python/Python_SciPy%20-%20Linear%20Algebra.pdf)
+    - [spaCy](https://github.com/LucyLucky123/ds-cheatsheets/blob/master/Python/Python_spaCy.pdf)
     
     
 - [R](https://github.com/FavioVazquez/ds-cheatsheets#r)
@@ -74,6 +77,7 @@ List of Data Science Cheatsheets to rule the world.
 - [SQL](https://github.com/FavioVazquez/ds-cheatsheets#sql)
     - [SQL cheatsheet by sqltutorial (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/SQL/SQL-cheat-sheet.pdf)
     - [SQL cheatsheet by Rebel Labs](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/SQL/zt_sql_cheat_sheet.pdf)
+    - [SQL-Commands-Cheat-Sheet](https://github.com/LucyLucky123/ds-cheatsheets/blob/master/SQL/SQL-Commands-Cheat-Sheet.pdf)
 - [Data Visualization](https://github.com/FavioVazquez/ds-cheatsheets#data-visualization)
     - [Matplotlib](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/matplotlib.pdf)
     - [Seaborn](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/seaborn.pdf)
