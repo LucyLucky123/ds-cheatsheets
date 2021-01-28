@@ -77,7 +77,7 @@ List of Data Science Cheatsheets to rule the world.
 - [SQL](https://github.com/FavioVazquez/ds-cheatsheets#sql)
     - [SQL cheatsheet by sqltutorial (PDF)](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/SQL/SQL-cheat-sheet.pdf)
     - [SQL cheatsheet by Rebel Labs](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/SQL/zt_sql_cheat_sheet.pdf)
-    - [SQL-Commands-Cheat-Sheet](https://github.com/LucyLucky123/ds-cheatsheets/blob/master/SQL/SQL-Commands-Cheat-Sheet.pdf)
+    - [SQL Commands CheatSheet](https://github.com/LucyLucky123/ds-cheatsheets/blob/master/SQL/SQL-Commands-Cheat-Sheet.pdf)
 - [Data Visualization](https://github.com/FavioVazquez/ds-cheatsheets#data-visualization)
     - [Matplotlib](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/matplotlib.pdf)
     - [Seaborn](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/seaborn.pdf)
