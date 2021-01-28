@@ -509,7 +509,6 @@ From @afshinea:
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/BASH/img/Linux-bash-cheatsheet-pg5.png)
 
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/BASH/img/Linux-bash-cheatsheet-pg6.png)
-- [Markdown-Cheatsheet](https://github.com/LucyLucky123/ds-cheatsheets/blob/master/General/Markdown-Cheatsheet.pdf)
 
 By @ml874
 
@@ -525,6 +524,8 @@ By @ml874
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/img/data-science-cheatsheet/data-science-cheatsheet-08.png)
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/img/data-science-cheatsheet/data-science-cheatsheet-09.png)
 ![](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/img/data-science-cheatsheet/data-science-cheatsheet-10.png)
+
+- [Markdown-Cheatsheet (PDF)](https://github.com/LucyLucky123/ds-cheatsheets/blob/master/General/Markdown-Cheatsheet.pdf)]
 
 
 # Contributors:
