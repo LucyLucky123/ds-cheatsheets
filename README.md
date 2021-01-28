@@ -6,6 +6,7 @@ List of Data Science Cheatsheets to rule the world.
 
 - [Business Science](https://github.com/FavioVazquez/ds-cheatsheets#business-science)
     - [Business Science Problem Framework](https://github.com/business-science/cheatsheets/blob/master/Business_Science_Problem_Framework.pdf)
+    - [Data Science_Business Leaders](https://github.com/LucyLucky123/ds-cheatsheets/blob/master/Python/Data%20Science_Business%20Leaders%20.pdf)
     - [Data Science with Python Workflow](https://github.com/business-science/cheatsheets/blob/master/Data_Science_With_Python_Workflow.pdf)
     - [Data Science with R Workflow](https://github.com/business-science/cheatsheets/blob/master/Data_Science_With_R_Workflow.pdf)
 - [Python](https://github.com/FavioVazquez/ds-cheatsheets#python)
@@ -19,6 +20,8 @@ List of Data Science Cheatsheets to rule the world.
     - [Intermediate Python](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Dataquest/Intermediate-Python-Cheat-Sheet.pdf)
     - [Python REGEX](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Dataquest/python-regular-expressions-cheat-sheet.pdf)
     - [Python 3 Memento](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Others/mementopython3-english.pdf)
+    
+    
 - [R](https://github.com/FavioVazquez/ds-cheatsheets#r)
     - [Tidiverse](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/Datacamp/tidiverse_beginners.pdf)
     - [data.table](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/R/Datacamp/data_table.pdf)
